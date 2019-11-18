@@ -7,6 +7,7 @@ target 'PipelineTest' do
 
   # Pods for PipelineTest
     pod 'AppCenter'
+    pod 'Alamofire'
 
   target 'PipelineTestTests' do
     inherit! :search_paths

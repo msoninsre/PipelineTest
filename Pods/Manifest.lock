@@ -1,4 +1,5 @@
 PODS:
+  - Alamofire (4.9.1)
   - AppCenter (2.5.1):
     - AppCenter/Analytics (= 2.5.1)
     - AppCenter/Crashes (= 2.5.1)
@@ -9,15 +10,18 @@ PODS:
     - AppCenter/Core
 
 DEPENDENCIES:
+  - Alamofire
   - AppCenter
 
 SPEC REPOS:
   trunk:
+    - Alamofire
     - AppCenter
 
 SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
   AppCenter: fddcbac6e4baae3d93a196ceb0bfe0e4ce407dec
 
-PODFILE CHECKSUM: fa9eef55ebd7d68a11b26f9058a47be711405a7a
+PODFILE CHECKSUM: df09ffc98c3241566d862b2dc051a741502a4a9a
 
 COCOAPODS: 1.8.3
